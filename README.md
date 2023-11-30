@@ -1,4 +1,4 @@
-# Forum-E-Learning-platform-Inferential-Statistics-Report-Project
+# Forum-E-Learning-platform-Inferential-Statistics-Project
 
 Minerva is a leading innovative university that tackles education with a comprehensive approach
 worthy of the 21st century. The curriculum utilizes the technology of our modern era to facilitate
